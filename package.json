@@ -3,6 +3,9 @@
   "workspaces": [
     "recipes/*"
   ],
+  "scripts": {
+    "global-constant": "yarn --cwd recipes/global-constant build"
+  },
   "engines": {
     "node": ">=8",
     "yarn": "1"
