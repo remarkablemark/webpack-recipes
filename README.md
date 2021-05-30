@@ -1,5 +1,7 @@
 # Webpack Recipes
 
+[![build](https://github.com/remarkablemark/webpack-recipes/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/webpack-recipes/actions/workflows/build.yml)
+
 [Webpack](https://webpack.js.org/) recipes.
 
 ## Prerequisites
