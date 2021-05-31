@@ -1,0 +1,15 @@
+{
+  "name": "css",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "webpack --mode=development",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "license": "MIT"
+}
