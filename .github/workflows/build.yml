@@ -20,5 +20,8 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Build global-constant
+      - name: Run css
+        run: yarn css
+
+      - name: Run global-constant
         run: yarn global-constant
