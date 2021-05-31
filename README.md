@@ -36,9 +36,13 @@ yarn
 
 In the project directory, you can run:
 
+### `css`
+
+Builds bundle with CSS styles. See [recipe](recipes/css) and [post](https://remarkablemark.org/blog/2016/10/06/webpack-require-css/).
+
 ### `global-constant`
 
-Builds bundle with global constant.
+Builds bundle with global constant. See [recipe](recipes/global-constant) and [post](https://remarkablemark.org/blog/2017/01/25/webpack-global-constants/).
 
 ## License
 
