@@ -4,7 +4,8 @@
   "scripts": {
     "build": "yarn build:development && yarn build:production",
     "build:production": "NODE_ENV=production webpack",
-    "build:development": "NODE_ENV=development webpack"
+    "build:development": "NODE_ENV=development webpack",
+    "clean": "rm -rf dist"
   },
   "devDependencies": {
     "webpack": "^5.38.1",
