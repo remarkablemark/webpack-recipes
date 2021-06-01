@@ -5,7 +5,8 @@
   ],
   "scripts": {
     "css": "yarn --cwd recipes/css build",
-    "global-constant": "yarn --cwd recipes/global-constant build"
+    "global-constant": "yarn --cwd recipes/global-constant build",
+    "react": "yarn --cwd recipes/react build"
   },
   "engines": {
     "node": ">=8",
