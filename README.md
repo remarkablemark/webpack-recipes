@@ -44,6 +44,10 @@ Builds bundle with CSS styles. See [recipe](recipes/css) and [post](https://rema
 
 Builds bundle with global constant. See [recipe](recipes/global-constant) and [post](https://remarkablemark.org/blog/2017/01/25/webpack-global-constants/).
 
+### `react`
+
+Builds a React app. See [recipe](recipes/react) and [post](https://remarkablemark.org/blog/2017/05/09/webpack-react-bundle/).
+
 ## License
 
 [MIT](LICENSE)
