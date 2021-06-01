@@ -25,3 +25,6 @@ jobs:
 
       - name: Run global-constant
         run: yarn global-constant
+
+      - name: Run react
+        run: yarn react
